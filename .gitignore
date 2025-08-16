@@ -1,0 +1,5 @@
+dataset/
+deepfake_detector.keras
+results/
+__pycache__/
+*.pyc
